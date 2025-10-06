@@ -41,6 +41,9 @@ body {
   .container {
     width: 380px;
   }
+  .portfolio h2 {
+    font-size: 90px;
+  }
   .spcial-heading {
     font-size: 50px;
   }
@@ -282,12 +285,6 @@ body {
   font-weight: 800;
   letter-spacing: -4px;
   margin: 0;
-}
-
-@media (min-width: 768px) {
-  .portfolio h2 {
-    font-size: 90px;
-  }
 }
 
 .portfolio p {

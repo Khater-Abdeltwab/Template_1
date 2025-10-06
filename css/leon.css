@@ -41,9 +41,6 @@ body {
   .container {
     width: 380px;
   }
-  .portfolio h2 {
-    font-size: 90px;
-  }
   .spcial-heading {
     font-size: 50px;
   }
@@ -280,7 +277,7 @@ body {
 
 .portfolio h2 {
   color: #ebeced;
-  font-size: 100px;
+  font-size: 90px;
   text-align: center;
   font-weight: 800;
   letter-spacing: -4px;

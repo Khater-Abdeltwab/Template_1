@@ -39,7 +39,7 @@ body {
 }
 @media (max-width: 768px) {
   .container {
-    width: 400px;
+    width: 380px;
   }
   .spcial-heading {
     font-size: 50px;

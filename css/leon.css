@@ -39,7 +39,7 @@ body {
 }
 @media (max-width: 768px) {
   .container {
-    width: 380px;
+    width: 370px;
     margin-right: 10px;
   }
   .spcial-heading {
@@ -285,6 +285,12 @@ body {
   margin: 0;
 }
 
+@media (max-width: 768px) {
+  .portfolio h2 {
+    font-size: 90px;
+  }
+}
+
 .portfolio p {
   margin: -30px 0 0;
   text-align: center;
@@ -455,6 +461,12 @@ body {
   font-weight: 800;
   letter-spacing: -4px;
   margin: 0;
+}
+
+@media (max-width: 768px) {
+  .contact .container h2 {
+    font-size: 90px;
+  }
 }
 
 .contact .container > p {

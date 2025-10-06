@@ -42,9 +42,7 @@ body {
     width: 350px;
     margin-right: 30px;
   }
-  .spcial-heading {
-    font-size: 50px;
-  }
+  
   .spcial-heading + p {
     margin-top: -20px;
   }
@@ -72,9 +70,9 @@ body {
 }
 
 @media (max-width: 768px) {
-  .spcial-heading {
-    margin-right:5px;
-  }
+    .spcial-heading {
+        font-size: 80px;
+    }
 }
 
 .spcial-heading + p {
@@ -291,9 +289,10 @@ body {
   margin: 0;
 }
 
+
 @media (max-width: 768px) {
   .portfolio h2 {
-    font-size: 90px;
+    font-size: 80px;
   }
 }
 

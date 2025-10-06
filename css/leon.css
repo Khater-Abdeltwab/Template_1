@@ -39,7 +39,7 @@ body {
 }
 @media (max-width: 768px) {
   .container {
-    width: 400px;
+    width: 370px;
     /* margin-right: 10px; */
   }
   .spcial-heading {

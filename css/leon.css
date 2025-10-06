@@ -71,7 +71,7 @@ body {
 
 @media (max-width: 768px) {
     .spcial-heading {
-        margin-right: 5px;
+        font-size: 80px;
     }
 }
 
